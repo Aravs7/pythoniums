@@ -4,4 +4,3 @@ Dependencies:
 
 Python3, 
 watchdog : pip3 install watchdog
-unix based machines only
