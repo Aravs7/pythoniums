@@ -1,0 +1,53 @@
+mv: /Users/second/Desktop/12367.txt: No such file or directory
+mv: /Users/second/Desktop/123678.txt: No such file or directory
+mv: /Users/second/Desktop/1236789.txt: No such file or directory
+mv: /Users/second/Desktop/12367890.txt: No such file or directory
+mv: /Users/second/Desktop/12367890a.txt: No such file or directory
+mv: /Users/second/Desktop/12367890abc.txt: No such file or directory
+mv: /Users/second/Desktop/12367.txt: No such file or directory
+mv: /Users/second/Desktop/123678.txt: No such file or directory
+mv: /Users/second/Desktop/1236789.txt: No such file or directory
+mv: /Users/second/Desktop/12367890.txt: No such file or directory
+mv: /Users/second/Desktop/12367890a.txt: No such file or directory
+mv: /Users/second/Desktop/12367890abc.txt: No such file or directory
+mv: /Users/second/Desktop/.DS_Store: No such file or directory
+mv: rename /Users/second/Desktop/12367.txt to /Users/second/Desktop/auto_store/12367.txt: No such file or directory
+mv: /Users/second/Desktop/123678.txt: No such file or directory
+mv: rename /Users/second/Desktop/1236789.txt to /Users/second/Desktop/auto_store/1236789.txt: No such file or directory
+mv: rename /Users/second/Desktop/12367890.txt to /Users/second/Desktop/auto_store/12367890.txt: No such file or directory
+mv: /Users/second/Desktop/Aravind_Singirikonda_CV.doc: No such file or directory
+2014-06-06 08:30:29 - Moved file: from /Users/second/Desktop/auto_store/1236.txt to /Users/second/Desktop/1236.txt
+2014-06-06 08:30:29 - Moved file: from /Users/second/Desktop/auto_store/12367890.txt to /Users/second/Desktop/12367890.txt
+2014-06-06 08:30:29 - Moved file: from /Users/second/Desktop/auto_store/123678.txt to /Users/second/Desktop/123678.txt
+2014-06-06 08:30:29 - Moved file: from /Users/second/Desktop/auto_store/12367890a.txt to /Users/second/Desktop/12367890a.txt
+2014-06-06 08:30:29 - Moved file: from /Users/second/Desktop/auto_store/1236789.txt to /Users/second/Desktop/1236789.txt
+2014-06-06 08:30:29 - Moved file: from /Users/second/Desktop/auto_store/12367.txt to /Users/second/Desktop/12367.txt
+2014-06-06 08:30:29 - Modified directory: /Users/second/Desktop/auto_store
+2014-06-06 08:30:29 - Modified directory: /Users/second/Desktop
+2014-06-06 08:30:29 - Moved file: from /Users/second/Desktop/.DS_Store to /Users/second/Desktop/auto_store/.DS_Store
+2014-06-06 08:30:29 - Moved file: from /Users/second/Desktop/1236.txt to /Users/second/Desktop/auto_store/1236.txt
+2014-06-06 08:30:29 - Moved file: from /Users/second/Desktop/1236789.txt to /Users/second/Desktop/auto_store/1236789.txt
+2014-06-06 08:30:29 - Moved file: from /Users/second/Desktop/123678.txt to /Users/second/Desktop/auto_store/123678.txt
+2014-06-06 08:30:29 - Moved file: from /Users/second/Desktop/12367.txt to /Users/second/Desktop/auto_store/12367.txt
+2014-06-06 08:30:29 - Moved file: from /Users/second/Desktop/12367890.txt to /Users/second/Desktop/auto_store/12367890.txt
+2014-06-06 08:30:29 - Moved file: from /Users/second/Desktop/12367890a.txt to /Users/second/Desktop/auto_store/12367890a.txt
+2014-06-06 08:30:34 - Modified file: /Users/second/Desktop/auto_store/.DS_Store
+2014-06-06 08:30:34 - Created file: /Users/second/Desktop/.DS_Store
+2014-06-06 08:30:34 - Modified directory: /Users/second/Desktop
+2014-06-06 08:30:35 - Moved file: from /Users/second/Desktop/auto_store/12367890.txt to /Users/second/Desktop/12367890.txt
+2014-06-06 08:30:35 - Moved file: from /Users/second/Desktop/auto_store/123678.txt to /Users/second/Desktop/123678.txt
+2014-06-06 08:30:35 - Moved file: from /Users/second/Desktop/auto_store/1236789.txt to /Users/second/Desktop/1236789.txt
+2014-06-06 08:30:35 - Moved file: from /Users/second/Desktop/auto_store/12367.txt to /Users/second/Desktop/12367.txt
+2014-06-06 08:30:35 - Modified directory: /Users/second/Desktop/auto_store
+2014-06-06 08:30:35 - Modified directory: /Users/second/Desktop
+2014-06-06 08:30:40 - Modified file: /Users/second/Desktop/auto_store/.DS_Store
+2014-06-06 08:30:40 - Modified file: /Users/second/Desktop/.DS_Store
+2014-06-06 08:30:40 - Moved file: from /Users/second/Desktop/auto_store/Aravind_Singirikonda_CV.doc to /Users/second/Desktop/Aravind_Singirikonda_CV.doc
+2014-06-06 08:30:40 - Modified directory: /Users/second/Desktop/auto_store
+2014-06-06 08:30:40 - Modified directory: /Users/second/Desktop
+2014-06-06 08:30:40 - Moved file: from /Users/second/Desktop/.DS_Store to /Users/second/Desktop/auto_store/.DS_Store
+2014-06-06 08:30:40 - Moved file: from /Users/second/Desktop/1236789.txt to /Users/second/Desktop/auto_store/1236789.txt
+2014-06-06 08:30:40 - Moved file: from /Users/second/Desktop/123678.txt to /Users/second/Desktop/auto_store/123678.txt
+2014-06-06 08:30:40 - Moved file: from /Users/second/Desktop/12367.txt to /Users/second/Desktop/auto_store/12367.txt
+2014-06-06 08:30:40 - Moved file: from /Users/second/Desktop/12367890.txt to /Users/second/Desktop/auto_store/12367890.txt
+2014-06-06 08:30:40 - Moved file: from /Users/second/Desktop/Aravind_Singirikonda_CV.doc to /Users/second/Desktop/auto_store/Aravind_Singirikonda_CV.doc
