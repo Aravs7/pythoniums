@@ -3,4 +3,4 @@ Program to clean up files from desktop and put in a 'Data' folder, when number o
 Dependencies:
 
 Python3
-watchdog : pip install watchdog
+watchdog : pip3 install watchdog
