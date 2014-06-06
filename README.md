@@ -2,5 +2,6 @@ Program to clean up files from desktop and put in a 'auto_store' folder, when nu
 
 Dependencies:
 
-Python3
+Python3\n
 watchdog : pip3 install watchdog
+unix based machines only
